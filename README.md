@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chowdary1058
+- 👋 Hi, I’m @KISHORE CHOWDARY
 - 👀 I’m interested in  web development nd data science
 - 🌱 I’m currently learning BTECH
 - 💞️ I’m looking to collaborate on job
